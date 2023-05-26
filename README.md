@@ -33,6 +33,6 @@ Highly skilled software engineer with 3+ years of experience in web development 
 - Improved image quality and design process through lab automation and the development of an analysis tool, saving 50% time.
 
 ## Education
-Master of Science in Power Mechanical Engineering | National Tsing Hua University | 2010-2012
-Bachelor of Science in Mechanical Engineering | Yuan-Ze University | 2005-2010
+### Master of Science in Power Mechanical Engineering | National Tsing Hua University | 2010-2012
+### Bachelor of Science in Mechanical Engineering | Yuan-Ze University | 2005-2010
 
