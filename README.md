@@ -1,5 +1,5 @@
 # YongTeng Huang
- charliehuang1017@gmail.com | [Linkedin]([yongteng-huang](https://www.linkedin.com/in/yongteng-huang/)) | [GitHub]([github.com/EyesHuang](https://github.com/EyesHuang))
+ charliehuang1017@gmail.com | [Linkedin](https://www.linkedin.com/in/yongteng-huang/) | [GitHub](https://github.com/EyesHuang)
 
 ## Professional Summary:
 Software Engineer with over 4 years in web development and DevOps. Strong proficiency in Go and AWS. Demonstrated leadership in project management and workflow optimization.
